@@ -4,6 +4,7 @@ This course by University of California, Davis (UC Davis) provides a comprehensi
 
 ### Folder Structure
 
+```
 SQL for Data Science/
 ├── 1. Module 1 (Getting Started and Selecting & Retrieving Data with SQL)/
 │   ├── Notes/
@@ -14,6 +15,7 @@ SQL for Data Science/
 ├── 2. Module 2 (Filtering, Sorting and Calculating Data with SQL)/
 ├── 3. Module 3 (Subqueries and Joins in SQL)/
 ├── 4. Module 4 (Modifying and Analyzing Data with SQL)/
+```
 
 ### Course Overview
 

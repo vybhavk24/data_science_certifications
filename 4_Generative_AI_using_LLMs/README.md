@@ -4,6 +4,7 @@ This course by deeplearning.ai, created in partnership with AWS, offers a practi
 
 ### Folder Structure
 
+```
 Generative AI using LLMs/
 ├── 1. Module_1 (Gen AI use cases, project lifecycle, and model pre-training)/
 │   ├── Notes/
@@ -13,6 +14,7 @@ Generative AI using LLMs/
 │   │   └── lab2.ipynb
 ├── 2. Module_2 (Fine-tuning and evaluating LLM)
 ├── 3. Module_3 (Advanced Techniques: RLHF, RAG, and LangChain)/
+```
 
 ### Course Overview
 

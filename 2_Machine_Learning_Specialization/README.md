@@ -4,6 +4,7 @@ This foundational specialization by deeplearning.ai, created in collaboration wi
 
 ### Folder Structure
 
+```
 Machine Learning Specialization/
 ├── 1. Supervised Machine Learning/
 │   ├── Module_1/
@@ -15,6 +16,7 @@ Machine Learning Specialization/
 │   ├── Module_2/
 ├── 2. Advanced Learning Algorithms/
 ├── 3. Unsupervised Learning/
+```
 
 ### Course Overview
 

@@ -4,6 +4,7 @@ This specialization by deeplearning.ai, taught by Luis Serrano, equips learners 
 
 ### Folder Structure
 
+```
 Mathematics for ML and DS Specialization/
 ├── 1. Linear Algebra for Machine Learning and Data Science/
 │   Module_1/
@@ -19,6 +20,7 @@ Mathematics for ML and DS Specialization/
 ├── 3. Probability and Statistics for Machine Learning and Data Science/
 │   ├── Module_1/
 │   ├── Module_2/
+```
 
 ### Course Overview
 

@@ -4,6 +4,7 @@ This foundational specialization by deeplearning.ai, created by Andrew Ng and te
 
 ### Folder Structure
 
+```
 Deep Learning Specialization/
 ├── 1. Neural Networks and Deep Learning/
 │   ├── Module_1/
@@ -17,6 +18,7 @@ Deep Learning Specialization/
 ├── 3. Structuring Machine Learning Projects/
 ├── 4. Convolutional Neural Networks/
 ├── 5. Sequence Models/
+```
 
 ### Course Overview
 
